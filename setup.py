@@ -13,8 +13,9 @@ setup(
     author='th3poli',
     author_email='',
     keywords=['polinv', 'helpful', 'tool'],
+    packages=['polinv'],
     url='https://github.com/th3poli/polinv',
-    install_requires=['requests', 'beautifulsoup4']
+    install_requires=['requests', 'pyautogui', 'undetected-chromedriver', 'cloudscraper'] # 'beautifulsoup4'
 )
 
 # python setup.py sdist bdist_wheel
