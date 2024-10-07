@@ -21,3 +21,4 @@ setup(
 # python setup.py sdist bdist_wheel
 # pip install ./dist/polinv-1.0.0.tar.gz --no-cache-dir
 # python -m twine upload .\dist\*
+# pip3 install C:/Users/USERNAME/Documents/python/polinv/dist/polinv-1.0.0.tar.gz --no-cache-dir
